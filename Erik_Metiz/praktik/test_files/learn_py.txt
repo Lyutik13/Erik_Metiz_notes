@@ -1,0 +1,3 @@
+In Python you can : program code
+In Python you can : learn computer science
+In Python you can : test your program!

@@ -1,0 +1,27 @@
+git log
+
+ls или dir
+mkdir (create new folder)
+cd V:\PycharmProjects\game_alien_invasion\test_git (путь)
+cd ..
+git init
+git clone https://github.com/Lyutik13/Erik_Metiz_... (in new folder!!!)
+
+git status
+git add ... или .
+git commit -m "..."
+
+git branch ...
+git branch -D ... (delete)
+git checkout ...(master)  git checkout -b name
+git merge ... (соединение веток)
+
+.gitignore
+errors.txt
+/logs
+
+git checkout -- name_fail. (delete modification before add)
+git reset name_fail (delete modification after add )
+git reset --soft HEAD^1 (downgrade -1 commit)
+git reset --hard HEAD^1 (downgrade -1 commit and delete)
+
